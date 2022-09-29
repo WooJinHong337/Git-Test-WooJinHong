@@ -1,7 +1,5 @@
-<<<<<<< HEAD
-alba3 파일생성 및 변경.
-=======
-alba3 파일생성 및 변경.
 
-master + alba3의 merge 해보기
->>>>>>> alba3
+
+
+master + alba3의 merge 해보기 이거
+
